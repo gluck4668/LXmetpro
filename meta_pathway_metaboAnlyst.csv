@@ -1,0 +1,11 @@
+,Total,Expected,Hits,Raw p,#NAME?,Holm adjust,FDR,Impact
+Taurine and hypotaurine metabolism,8,0.040635,1,0.040007,1.3979,1,1,0
+Caffeine metabolism,10,0.050794,1,0.049787,1.3029,1,1,0.69231
+alpha-Linolenic acid metabolism,13,0.066032,1,0.064294,1.1918,1,1,0
+Sphingolipid metabolism,32,0.16254,1,0.15175,0.81886,1,1,0.09756
+"Glycine, serine and threonine metabolism",33,0.16762,1,0.15615,0.80646,1,1,0.02673
+Biosynthesis of unsaturated fatty acids,36,0.18286,1,0.16923,0.77153,1,1,0
+Glycerophospholipid metabolism,36,0.18286,1,0.16923,0.77153,1,1,0.01736
+Arginine and proline metabolism,36,0.18286,1,0.16923,0.77153,1,1,0.04651
+Pyrimidine metabolism,39,0.1981,1,0.18212,0.73964,1,1,0.05835
+Primary bile acid biosynthesis,46,0.23365,1,0.21154,0.67462,1,1,0.00805

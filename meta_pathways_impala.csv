@@ -1,0 +1,297 @@
+pathway_name,pathway_source,num_overlapping_metabolites,overlapping_metabolites,num_all_pathway_metabolites,P_metabolites,Q_metabolites
+Sphingolipid metabolism - Homo sapiens (human),KEGG,3,HMDB0010711;HMDB0006752;HMDB0013461,19 (25),0.000401,1
+Phosphatidylcholine catabolism,Wikipathways,2,HMDB0010404;HMDB0013461,6 (9),0.000907,1
+Metabolism of Spingolipids in ER and Golgi apparatus,Wikipathways,2,HMDB0010711;HMDB0006752,10 (21),0.00267,1
+Sphingolipid Metabolism,SMPDB,3,HMDB0010711;HMDB0013461;HMDB0006752,38 (40),0.00316,1
+Gaucher Disease,SMPDB,3,HMDB0010711;HMDB0013461;HMDB0006752,38 (40),0.00316,1
+Globoid Cell Leukodystrophy,SMPDB,3,HMDB0010711;HMDB0013461;HMDB0006752,38 (40),0.00316,1
+Metachromatic Leukodystrophy (MLD),SMPDB,3,HMDB0010711;HMDB0013461;HMDB0006752,38 (40),0.00316,1
+Fabry disease,SMPDB,3,HMDB0010711;HMDB0013461;HMDB0006752,38 (40),0.00316,1
+Krabbe disease,SMPDB,3,HMDB0010711;HMDB0013461;HMDB0006752,38 (40),0.00316,1
+Diltiazem Action Pathway,SMPDB,2,HMDB0009888;HMDB0014487,11 (11),0.00325,1
+Glycosphingolipid metabolism,EHMN,3,HMDB0010711;HMDB0006752;HMDB0013461,40 (52),0.00366,1
+Sphingolipid pathway,Wikipathways,2,HMDB0010711;HMDB0006752,13 (14),0.00456,1
+Sphingolipid signaling pathway - Homo sapiens (human),KEGG,2,HMDB0006752;HMDB0013461,15 (15),0.00608,1
+PI3K-AKT-mTOR signaling pathway and therapeutic opportunities,Wikipathways,1,HMDB0009888,1 (1),0.00805,1
+Splicing factor NOVA regulated synaptic proteins,Wikipathways,1,HMDB0009888,1 (1),0.00805,1
+Senescence and Autophagy in Cancer,Wikipathways,1,HMDB0009888,1 (1),0.00805,1
+Sphingolipid metabolism,Reactome,3,HMDB0010711;HMDB0013461;HMDB0006752,54 (65),0.00856,1
+Heroin metabolism,Wikipathways,1,HMDB0041812,2 (3),0.016,1
+ceramide signaling pathway,BioCarta,1,HMDB0013461,2 (2),0.016,1
+Phospholipid Biosynthesis,SMPDB,2,HMDB0009888;HMDB0010404,27 (27),0.0192,1
+T-Cell antigen Receptor (TCR) pathway during Staphylococcus aureus infection,Wikipathways,1,HMDB0009888,3 (3),0.024,1
+resolvin D biosynthesis,HumanCyc,1,HMDB0002183,3 (5),0.024,1
+aspirin triggered resolvin D biosynthesis,HumanCyc,1,HMDB0002183,3 (7),0.024,1
+Sphingolipid de novo biosynthesis,Reactome,2,HMDB0013461;HMDB0006752,31 (35),0.0249,1
+Glycosphingolipid metabolism,Reactome,2,HMDB0010711;HMDB0013461,31 (38),0.0249,1
+T-Cell Receptor and Co-stimulatory Signaling,Wikipathways,1,HMDB0009888,4 (4),0.0318,1
+Heroin Metabolism Pathway,SMPDB,1,HMDB0041812,4 (5),0.0318,1
+Ceramide signalling,Reactome,1,HMDB0013461,5 (5),0.0396,1
+Transport of small molecules,Reactome,4,HMDB0000036;HMDB0010404;HMDB0000273;HMDB0013461,172 (219),0.0451,1
+Neurodegeneration with brain iron accumulation (NBIA) subtypes pathway,Wikipathways,1,HMDB0013461,6 (23),0.0474,1
+3q29 copy number variation syndrome,Wikipathways,1,HMDB0000036,6 (17),0.0474,1
+mRNA decay by 5_ to 3_ exoribonuclease,Reactome,1,HMDB0001107,6 (7),0.0474,1
+Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),KEGG,1,HMDB0011668,6 (16),0.0474,1
+Acyl chain remodelling of PC,Reactome,1,HMDB0010404,6 (13),0.0474,1
+Acyl chain remodeling of CL,Reactome,1,HMDB0010404,6 (12),0.0474,1
+Hydrolysis of LPC,Reactome,1,HMDB0010404,6 (9),0.0474,1
+phospholipids as signalling intermediaries,BioCarta,1,HMDB0013461,6 (7),0.0474,1
+Biosynthesis of maresin-like SPMs,Reactome,1,HMDB0002183,6 (17),0.0474,1
+Insulin Signalling,SMPDB,1,HMDB0009888,6 (7),0.0474,1
+Metabolism of lipids,Reactome,6,HMDB0000036;HMDB0010404;HMDB0006752;HMDB0010711;HMDB0013461;HMDB0002183,352 (626),0.0532,1
+COPI-independent Golgi-to-ER retrograde traffic,Reactome,1,HMDB0010404,7 (9),0.055,1
+ABC transporters in lipid homeostasis,Reactome,1,HMDB0013461,7 (11),0.055,1
+phospho-PLA2 pathway,Reactome,1,HMDB0010404,7 (7),0.055,1
+Cholesterol metabolism - Homo sapiens (human),KEGG,1,HMDB0000036,7 (10),0.055,1
+Biosynthesis of maresins,Reactome,1,HMDB0002183,7 (23),0.055,1
+Oligodendrocyte specification and differentiation_ leading to myelin components for CNS,Wikipathways,1,HMDB0013461,8 (11),0.0627,1
+mRNA decay by 3_ to 5_ exoribonuclease,Reactome,1,HMDB0001107,8 (10),0.0627,1
+Deadenylation-dependent mRNA decay,Reactome,1,HMDB0001107,8 (11),0.0627,1
+creatine biosynthesis,HumanCyc,1,HMDB0000128,8 (8),0.0627,1
+Necroptosis - Homo sapiens (human),KEGG,1,HMDB0013461,8 (10),0.0627,1
+GPCR downstream signalling,Reactome,3,HMDB0010404;HMDB0034927;HMDB0002183,118 (152),0.0662,1
+Golgi-to-ER retrograde transport,Reactome,1,HMDB0010404,9 (11),0.0702,1
+Aromatic amines can be N-hydroxylated or N-dealkylated by CYP1A2,Reactome,1,HMDB0001860,9 (10),0.0702,1
+Acetylation,Reactome,1,HMDB0001860,9 (14),0.0702,1
+pyrimidine deoxyribonucleosides degradation,HumanCyc,1,HMDB0000273,9 (10),0.0702,1
+Death Receptor Signalling,Reactome,1,HMDB0013461,10 (12),0.0777,1
+HDL remodeling,Reactome,1,HMDB0010404,10 (13),0.0777,1
+Plasma lipoprotein remodeling,Reactome,1,HMDB0010404,10 (16),0.0777,1
+Intracellular Signalling Through Adenosine Receptor A2b and Adenosine,SMPDB,1,HMDB0009888,10 (10),0.0777,1
+Choline metabolism in cancer - Homo sapiens (human),KEGG,1,HMDB0010404,10 (11),0.0777,1
+Intracellular Signalling Through Adenosine Receptor A2a and Adenosine,SMPDB,1,HMDB0009888,10 (10),0.0777,1
+Arbutamine Action Pathway,SMPDB,1,HMDB0009888,10 (11),0.0777,1
+Alprenolol Action Pathway,SMPDB,1,HMDB0009888,10 (11),0.0777,1
+Muscle/Heart Contraction,SMPDB,1,HMDB0009888,10 (10),0.0777,1
+p75 NTR receptor-mediated signalling,Reactome,1,HMDB0013461,10 (11),0.0777,1
+Felodipine Action Pathway,SMPDB,1,HMDB0009888,10 (11),0.0777,1
+Signal Transduction,Reactome,4,HMDB0010404;HMDB0034927;HMDB0013461;HMDB0002183,206 (290),0.078,1
+Transport of vitamins_ nucleosides_ and related molecules,Reactome,2,HMDB0000036;HMDB0000273,59 (63),0.0802,1
+Caffeine and Theobromine metabolism,Wikipathways,1,HMDB0001860,11 (11),0.0852,1
+Calcium Regulation in the Cardiac Cell,Wikipathways,1,HMDB0009888,11 (11),0.0852,1
+Bupranolol Action Pathway,SMPDB,1,HMDB0009888,11 (11),0.0852,1
+Intra-Golgi and retrograde Golgi-to-ER traffic,Reactome,1,HMDB0010404,11 (13),0.0852,1
+ABC-family proteins mediated transport,Reactome,1,HMDB0013461,11 (20),0.0852,1
+Dobutamine Action Pathway,SMPDB,1,HMDB0009888,11 (11),0.0852,1
+Ca-dependent events,Reactome,1,HMDB0010404,11 (11),0.0852,1
+Disopyramide Action Pathway,SMPDB,1,HMDB0009888,11 (11),0.0852,1
+Procainamide (Antiarrhythmic) Action Pathway,SMPDB,1,HMDB0009888,11 (11),0.0852,1
+Bopindolol Action Pathway,SMPDB,1,HMDB0009888,11 (11),0.0852,1
+Timolol Action Pathway,SMPDB,1,HMDB0009888,11 (11),0.0852,1
+Carteolol Action Pathway,SMPDB,1,HMDB0009888,11 (11),0.0852,1
+Bevantolol Action Pathway,SMPDB,1,HMDB0009888,11 (11),0.0852,1
+Practolol Action Pathway,SMPDB,1,HMDB0009888,11 (11),0.0852,1
+Isoprenaline Action Pathway,SMPDB,1,HMDB0009888,11 (11),0.0852,1
+Amiodarone Action Pathway,SMPDB,1,HMDB0009888,11 (11),0.0852,1
+Levobunolol Action Pathway,SMPDB,1,HMDB0009888,11 (11),0.0852,1
+Metipranolol Action Pathway,SMPDB,1,HMDB0009888,11 (11),0.0852,1
+Mexiletine Action Pathway,SMPDB,1,HMDB0009888,11 (11),0.0852,1
+Quinidine Action Pathway,SMPDB,1,HMDB0009888,11 (11),0.0852,1
+Sotalol Action Pathway,SMPDB,1,HMDB0009888,11 (11),0.0852,1
+Epinephrine Action Pathway,SMPDB,1,HMDB0009888,11 (11),0.0852,1
+Betaxolol Action Pathway,SMPDB,1,HMDB0009888,11 (11),0.0852,1
+Atenolol Action Pathway,SMPDB,1,HMDB0009888,11 (11),0.0852,1
+Acebutolol Action Pathway,SMPDB,1,HMDB0009888,11 (11),0.0852,1
+Propranolol Action Pathway,SMPDB,1,HMDB0009888,11 (11),0.0852,1
+Pindolol Action Pathway,SMPDB,1,HMDB0009888,11 (11),0.0852,1
+Penbutolol Action Pathway,SMPDB,1,HMDB0009888,11 (11),0.0852,1
+Oxprenolol Action Pathway,SMPDB,1,HMDB0009888,11 (11),0.0852,1
+Metoprolol Action Pathway,SMPDB,1,HMDB0009888,11 (11),0.0852,1
+Esmolol Action Pathway,SMPDB,1,HMDB0009888,11 (11),0.0852,1
+Bisoprolol Action Pathway,SMPDB,1,HMDB0009888,11 (11),0.0852,1
+Nebivolol Action Pathway,SMPDB,1,HMDB0009888,11 (11),0.0852,1
+Amlodipine Action Pathway,SMPDB,1,HMDB0009888,11 (11),0.0852,1
+Verapamil Action Pathway,SMPDB,1,HMDB0009888,11 (11),0.0852,1
+Nitrendipine Action Pathway,SMPDB,1,HMDB0009888,11 (11),0.0852,1
+Nisoldipine Action Pathway,SMPDB,1,HMDB0009888,11 (11),0.0852,1
+Nimodipine Action Pathway,SMPDB,1,HMDB0009888,11 (11),0.0852,1
+Ibutilide Action Pathway,SMPDB,1,HMDB0009888,11 (11),0.0852,1
+Tocainide Action Pathway,SMPDB,1,HMDB0009888,11 (11),0.0852,1
+Flecainide Action Pathway,SMPDB,1,HMDB0009888,11 (11),0.0852,1
+Isradipine Action Pathway,SMPDB,1,HMDB0009888,11 (11),0.0852,1
+Nifedipine Action Pathway,SMPDB,1,HMDB0009888,11 (11),0.0852,1
+Nadolol Action Pathway,SMPDB,1,HMDB0009888,11 (11),0.0852,1
+Carvedilol Action Pathway,SMPDB,1,HMDB0009888,11 (11),0.0852,1
+Labetalol Action Pathway,SMPDB,1,HMDB0009888,11 (11),0.0852,1
+glutaryl-CoA degradation,HumanCyc,1,HMDB0001290,12 (12),0.0926,1
+Fosphenytoin (Antiarrhythmic) Action Pathway,SMPDB,1,HMDB0009888,12 (12),0.0926,1
+Phosphatidylinositol Phosphate Metabolism,SMPDB,1,HMDB0009888,12 (12),0.0926,1
+Joubert syndrome,SMPDB,1,HMDB0009888,12 (12),0.0926,1
+Biosynthesis of electrophilic ?-3 PUFA oxo-derivatives,Reactome,1,HMDB0002183,13 (28),0.0999,1
+Transport of organic anions,Reactome,1,HMDB0000036,13 (15),0.0999,1
+Endothelin Pathways,Wikipathways,1,HMDB0009888,13 (13),0.0999,1
+Plasma lipoprotein assembly_ remodeling_ and clearance,Reactome,1,HMDB0010404,13 (21),0.0999,1
+Heroin Action Pathway,SMPDB,1,HMDB0041812,13 (14),0.0999,1
+Signaling by GPCR,Reactome,3,HMDB0010404;HMDB0034927;HMDB0002183,142 (190),0.102,1
+Pyrimidine metabolism and related diseases,Wikipathways,1,HMDB0000273,14 (37),0.107,1
+MTHFR deficiency,Wikipathways,1,HMDB0013461,14 (21),0.107,1
+Digestion of dietary lipid,Reactome,1,HMDB0000036,14 (17),0.107,1
+Biomarkers for pyrimidine metabolism disorders,Wikipathways,1,HMDB0000273,15 (34),0.114,1
+Creatine metabolism,Reactome,1,HMDB0000128,15 (15),0.114,1
+PLC beta mediated events,Reactome,1,HMDB0010404,16 (17),0.122,1
+G-protein mediated events,Reactome,1,HMDB0010404,16 (17),0.122,1
+G alpha (i) signalling events,Reactome,2,HMDB0010404;HMDB0034927,77 (106),0.126,1
+16p11.2 proximal deletion syndrome,Wikipathways,1,HMDB0010404,17 (40),0.129,1
+Taurine and hypotaurine metabolism - Homo sapiens (human),KEGG,1,HMDB0000036,18 (22),0.136,1
+Caffeine metabolism - Homo sapiens (human),KEGG,1,HMDB0001860,18 (22),0.136,1
+Biosynthesis of DHA-derived SPMs,Reactome,1,HMDB0002183,18 (75),0.136,1
+Alpha Linolenic Acid and Linoleic Acid Metabolism,SMPDB,1,HMDB0002183,18 (18),0.136,1
+Drug Induction of Bile Acid Pathway,Wikipathways,1,HMDB0000036,18 (28),0.136,1
+Membrane Trafficking,Reactome,1,HMDB0010404,20 (31),0.15,1
+Recycling of bile acids and salts,Reactome,1,HMDB0000036,20 (20),0.15,1
+Opioid Signalling,Reactome,1,HMDB0010404,20 (23),0.15,1
+Linoleate metabolism,EHMN,1,HMDB0010404,21 (24),0.157,1
+fatty acid activation,HumanCyc,1,HMDB0002183,21 (38),0.157,1
+retinol biosynthesis,HumanCyc,1,HMDB0002183,21 (37),0.157,1
+Transport of nucleosides and free purine and pyrimidine bases across the plasma membrane,Reactome,1,HMDB0000273,21 (21),0.157,1
+Phenytoin (Antiarrhythmic) Action Pathway,SMPDB,1,HMDB0009888,22 (22),0.163,1
+Selenium Micronutrient Network,Wikipathways,2,HMDB0001904;HMDB0002183,91 (107),0.165,1
+Cerebral organic acidurias_ including diseases,Wikipathways,1,HMDB0001290,23 (27),0.17,1
+Kynurenine Pathway and links to Cellular Senescence,Wikipathways,1,HMDB0001290,23 (25),0.17,1
+alpha-linolenic acid (ALA) metabolism,Reactome,1,HMDB0002183,23 (32),0.17,1
+Pyrimidine salvage,Reactome,1,HMDB0000273,23 (23),0.17,1
+Free fatty acid receptors,Reactome,1,HMDB0002183,23 (24),0.17,1
+Caffeine Metabolism,SMPDB,1,HMDB0001860,23 (24),0.17,1
+alpha-Linolenic acid metabolism - Homo sapiens (human),KEGG,1,HMDB0060376,24 (44),0.177,1
+Glycerophospholipid metabolism - Homo sapiens (human),KEGG,1,HMDB0010404,25 (55),0.184,1
+Lidocaine (Antiarrhythmic) Action Pathway,SMPDB,1,HMDB0009888,26 (26),0.19,1
+Urea cycle and metabolism of amino groups,Wikipathways,1,HMDB0000128,28 (32),0.203,1
+Butanoate metabolism - Homo sapiens (human),KEGG,1,HMDB0001290,28 (42),0.203,1
+beta-Alanine metabolism - Homo sapiens (human),KEGG,1,HMDB0006805,29 (32),0.21,1
+sphingomyelin metabolism/ceramide salvage,HumanCyc,1,HMDB0002183,31 (55),0.223,1
+superpathway of pyrimidine deoxyribonucleoside salvage,HumanCyc,1,HMDB0000273,31 (31),0.223,1
+alpha-linolenic (omega3) and linoleic (omega6) acid metabolism,Reactome,1,HMDB0002183,31 (42),0.223,1
+triacylglycerol degradation,HumanCyc,1,HMDB0002183,31 (54),0.223,1
+pyrimidine deoxyribonucleosides salvage,HumanCyc,1,HMDB0000273,31 (31),0.223,1
+phospholipases,HumanCyc,1,HMDB0002183,31 (55),0.223,1
+Vesicle-mediated transport,Reactome,1,HMDB0010404,31 (66),0.223,1
+Bile secretion - Homo sapiens (human),KEGG,2,HMDB0000036;HMDB0014487,112 (161),0.227,1
+Pentose and glucuronate interconversions - Homo sapiens (human),KEGG,1,HMDB0039721,32 (58),0.229,1
+Digestion,Reactome,1,HMDB0000036,32 (42),0.229,1
+Metabolism,Reactome,9,HMDB0000036;HMDB0010404;HMDB0006752;HMDB0001860;HMDB0010711;HMDB0000128;HMDB0000273;HMDB0013461;HMDB0002183,863 (1411),0.231,1
+Digestion and absorption,Reactome,1,HMDB0000036,33 (45),0.235,1
+Class C/3 (Metabotropic glutamate/pheromone receptors),Reactome,1,HMDB0034927,34 (54),0.242,1
+Pyrimidine metabolism,Wikipathways,1,HMDB0000273,35 (40),0.248,1
+Biosynthesis of specialized proresolving mediators (SPMs),Reactome,1,HMDB0002183,35 (143),0.248,1
+Metabolism of RNA,Reactome,1,HMDB0001107,35 (77),0.248,1
+the visual cycle I (vertebrates),HumanCyc,1,HMDB0002183,35 (58),0.248,1
+One-carbon metabolism and related pathways,Wikipathways,1,HMDB0000036,37 (42),0.26,1
+sphingosine and sphingosine-1-phosphate metabolism,HumanCyc,1,HMDB0002183,37 (59),0.26,1
+Pyrimidine catabolism,Reactome,1,HMDB0000273,37 (39),0.26,1
+bile acid biosynthesis_ neutral pathway,HumanCyc,1,HMDB0000036,38 (44),0.266,1
+Propanoate metabolism - Homo sapiens (human),KEGG,1,HMDB0006805,38 (48),0.266,1
+GPCR ligand binding,Reactome,2,HMDB0034927;HMDB0002183,125 (168),0.266,1
+Phosphatidylinositol phosphate metabolism,EHMN,1,HMDB0011668,39 (48),0.272,1
+Biosynthesis of unsaturated fatty acids - Homo sapiens (human),KEGG,1,HMDB0002183,39 (74),0.272,1
+Xenobiotics,Reactome,1,HMDB0001860,39 (51),0.272,1
+Primary bile acid biosynthesis - Homo sapiens (human),KEGG,1,HMDB0000036,40 (47),0.278,1
+Methionine Cysteine metabolism,INOH,1,HMDB0000036,41 (45),0.284,1
+Glycine_ serine and threonine metabolism - Homo sapiens (human),KEGG,1,HMDB0000128,42 (50),0.29,1
+Synthesis of bile acids and bile salts via 7alpha-hydroxycholesterol,Reactome,1,HMDB0000036,43 (49),0.295,1
+Nucleotide salvage,Reactome,1,HMDB0000273,44 (45),0.301,1
+SLC-mediated transmembrane transport,Reactome,2,HMDB0000036;HMDB0000273,139 (164),0.309,1
+Bile acid biosynthesis,EHMN,1,HMDB0000036,47 (55),0.318,1
+Glycerophospholipid biosynthesis,Reactome,1,HMDB0010404,47 (94),0.318,1
+Pyrimidine metabolism - Homo sapiens (human),KEGG,1,HMDB0000273,49 (65),0.329,1
+Phospholipid metabolism,Reactome,1,HMDB0010404,50 (104),0.335,1
+Vitamin B12 metabolism,Wikipathways,1,HMDB0001904,51 (61),0.34,1
+Hyperprolinemia Type II,SMPDB,1,HMDB0000128,52 (52),0.346,1
+Prolidase Deficiency (PD),SMPDB,1,HMDB0000128,52 (52),0.346,1
+Ornithine Aminotransferase Deficiency (OAT Deficiency),SMPDB,1,HMDB0000128,52 (52),0.346,1
+Hyperornithinemia with gyrate atrophy (HOGA),SMPDB,1,HMDB0000128,52 (52),0.346,1
+Creatine deficiency_ guanidinoacetate methyltransferase deficiency,SMPDB,1,HMDB0000128,52 (52),0.346,1
+L-arginine:glycine amidinotransferase deficiency,SMPDB,1,HMDB0000128,52 (52),0.346,1
+Hyperornithinemia-hyperammonemia-homocitrullinuria [HHH-syndrome],SMPDB,1,HMDB0000128,52 (52),0.346,1
+Guanidinoacetate Methyltransferase Deficiency (GAMT Deficiency),SMPDB,1,HMDB0000128,52 (52),0.346,1
+Prolinemia Type II,SMPDB,1,HMDB0000128,52 (52),0.346,1
+Arginine and Proline Metabolism,SMPDB,1,HMDB0000128,52 (52),0.346,1
+Hyperprolinemia Type I,SMPDB,1,HMDB0000128,52 (52),0.346,1
+Arginine: Glycine Amidinotransferase Deficiency (AGAT Deficiency),SMPDB,1,HMDB0000128,52 (52),0.346,1
+Pyrimidine nucleotides nucleosides metabolism,INOH,1,HMDB0000273,53 (56),0.351,1
+Glycine Serine metabolism,INOH,1,HMDB0000128,53 (68),0.351,1
+3-Phosphoglycerate dehydrogenase deficiency,SMPDB,1,HMDB0000128,54 (55),0.356,1
+Non Ketotic Hyperglycinemia,SMPDB,1,HMDB0000128,54 (55),0.356,1
+Glycine and Serine Metabolism,SMPDB,1,HMDB0000128,54 (55),0.356,1
+Dimethylglycine Dehydrogenase Deficiency,SMPDB,1,HMDB0000128,54 (55),0.356,1
+Hyperglycinemia_ non-ketotic,SMPDB,1,HMDB0000128,54 (55),0.356,1
+Dimethylglycine Dehydrogenase Deficiency,SMPDB,1,HMDB0000128,54 (55),0.356,1
+Sarcosinemia,SMPDB,1,HMDB0000128,54 (55),0.356,1
+Dihydropyrimidine Dehydrogenase Deficiency (DHPD),SMPDB,1,HMDB0000128,54 (55),0.356,1
+Synthesis of bile acids and bile salts,Reactome,1,HMDB0000036,55 (75),0.362,1
+G alpha (q) signalling events,Reactome,1,HMDB0002183,56 (64),0.367,1
+Pyrimidine Metabolism,SMPDB,1,HMDB0000273,56 (57),0.367,1
+UMP Synthase Deiciency (Orotic Aciduria),SMPDB,1,HMDB0000273,56 (57),0.367,1
+MNGIE (Mitochondrial Neurogastrointestinal Encephalopathy),SMPDB,1,HMDB0000273,56 (57),0.367,1
+Beta Ureidopropionase Deficiency,SMPDB,1,HMDB0000273,56 (57),0.367,1
+Dihydropyrimidinase Deficiency,SMPDB,1,HMDB0000273,56 (57),0.367,1
+Folate Metabolism,Wikipathways,1,HMDB0001904,56 (66),0.367,1
+Congenital Bile Acid Synthesis Defect Type III,SMPDB,1,HMDB0000036,58 (64),0.377,1
+Arginine Proline metabolism,INOH,1,HMDB0000128,58 (68),0.377,1
+Bile Acid Biosynthesis,SMPDB,1,HMDB0000036,58 (64),0.377,1
+27-Hydroxylase Deficiency,SMPDB,1,HMDB0000036,58 (64),0.377,1
+Congenital Bile Acid Synthesis Defect Type II,SMPDB,1,HMDB0000036,58 (64),0.377,1
+Cerebrotendinous Xanthomatosis (CTX),SMPDB,1,HMDB0000036,58 (64),0.377,1
+Zellweger Syndrome,SMPDB,1,HMDB0000036,58 (64),0.377,1
+Familial Hypercholanemia (FHCA),SMPDB,1,HMDB0000036,58 (64),0.377,1
+Bile acid and bile salt metabolism,Reactome,1,HMDB0000036,59 (79),0.382,1
+Arginine and proline metabolism - Homo sapiens (human),KEGG,1,HMDB0000128,60 (78),0.388,1
+Glycerophospholipid metabolism,EHMN,1,HMDB0010404,62 (95),0.398,1
+Salicylate-sodium Action Pathway,SMPDB,1,HMDB0010404,66 (72),0.417,1
+Valdecoxib Action Pathway,SMPDB,1,HMDB0010404,66 (72),0.417,1
+Rofecoxib Action Pathway,SMPDB,1,HMDB0010404,66 (72),0.417,1
+Leukotriene C4 Synthesis Deficiency,SMPDB,1,HMDB0010404,66 (71),0.417,1
+Flurbiprofen Action Pathway,SMPDB,1,HMDB0010404,66 (72),0.417,1
+Lumiracoxib Action Pathway,SMPDB,1,HMDB0010404,66 (72),0.417,1
+Trisalicylate-choline Action Pathway,SMPDB,1,HMDB0010404,66 (71),0.417,1
+Nepafenac Action Pathway,SMPDB,1,HMDB0010404,66 (72),0.417,1
+Salsalate Action Pathway,SMPDB,1,HMDB0010404,66 (72),0.417,1
+Tiaprofenic Acid Action Pathway,SMPDB,1,HMDB0010404,66 (72),0.417,1
+Nabumetone Action Pathway,SMPDB,1,HMDB0010404,66 (72),0.417,1
+Bromfenac Action Pathway,SMPDB,1,HMDB0010404,66 (72),0.417,1
+Arachidonic Acid Metabolism,SMPDB,1,HMDB0010404,66 (71),0.417,1
+Etodolac Action Pathway,SMPDB,1,HMDB0010404,67 (72),0.422,1
+Ketoprofen Action Pathway,SMPDB,1,HMDB0010404,67 (72),0.422,1
+Acetylsalicylic Acid Action Pathway,SMPDB,1,HMDB0010404,67 (72),0.422,1
+Diflunisal Action Pathway,SMPDB,1,HMDB0010404,67 (72),0.422,1
+Acetaminophen  Action Pathway,SMPDB,1,HMDB0010404,67 (72),0.422,1
+Sulindac Action Pathway,SMPDB,1,HMDB0010404,67 (72),0.422,1
+Diclofenac Action Pathway,SMPDB,1,HMDB0010404,67 (72),0.422,1
+Ketorolac Action Pathway,SMPDB,1,HMDB0010404,67 (72),0.422,1
+Naproxen Action Pathway,SMPDB,1,HMDB0010404,67 (72),0.422,1
+Etoricoxib Action Pathway,SMPDB,1,HMDB0010404,67 (72),0.422,1
+Carprofen Action Pathway,SMPDB,1,HMDB0010404,67 (72),0.422,1
+Fenoprofen Action Pathway,SMPDB,1,HMDB0010404,67 (72),0.422,1
+Antrafenine Action Pathway,SMPDB,1,HMDB0010404,67 (72),0.422,1
+Antipyrine Action Pathway,SMPDB,1,HMDB0010404,67 (72),0.422,1
+Magnesium salicylate Action Pathway,SMPDB,1,HMDB0010404,67 (72),0.422,1
+Phenylbutazone Action Pathway,SMPDB,1,HMDB0010404,67 (72),0.422,1
+Lornoxicam Action Pathway,SMPDB,1,HMDB0010404,67 (72),0.422,1
+Tenoxicam Action Pathway,SMPDB,1,HMDB0010404,67 (72),0.422,1
+Tolmetin Action Pathway,SMPDB,1,HMDB0010404,67 (72),0.422,1
+Salicylic Acid Action Pathway,SMPDB,1,HMDB0010404,67 (72),0.422,1
+Oxaprozin Action Pathway,SMPDB,1,HMDB0010404,67 (72),0.422,1
+Indomethacin Action Pathway,SMPDB,1,HMDB0010404,67 (72),0.422,1
+Meloxicam Action Pathway,SMPDB,1,HMDB0010404,67 (72),0.422,1
+Suprofen Action Pathway,SMPDB,1,HMDB0010404,67 (72),0.422,1
+Mefenamic Acid Action Pathway,SMPDB,1,HMDB0010404,67 (72),0.422,1
+Piroxicam Action Pathway,SMPDB,1,HMDB0010404,67 (72),0.422,1
+Pyrimidine metabolism,EHMN,1,HMDB0000273,69 (77),0.432,1
+Celecoxib Action Pathway,SMPDB,1,HMDB0010404,70 (76),0.436,1
+Fatty acid metabolism,Reactome,2,HMDB0010404;HMDB0002183,182 (257),0.436,1
+Glycine_ serine_ alanine and threonine metabolism,EHMN,1,HMDB0000128,73 (88),0.45,1
+Ibuprofen Action Pathway,SMPDB,1,HMDB0010404,74 (79),0.455,1
+Xenobiotics metabolism,EHMN,1,HMDB0060326,75 (93),0.459,1
+Nucleobase catabolism,Reactome,1,HMDB0000273,78 (99),0.473,1
+Cytochrome P450 - arranged by substrate type,Reactome,1,HMDB0001860,87 (120),0.511,1
+ABC transporters - Homo sapiens (human),KEGG,1,HMDB0039721,88 (138),0.515,1
+Arachidonic acid metabolism,Reactome,1,HMDB0010404,89 (114),0.519,1
+Class A/1 (Rhodopsin-like receptors),Reactome,1,HMDB0002183,90 (113),0.523,1
+Biochemical Pathways Part I,Wikipathways,4,HMDB0000036;HMDB0000128;HMDB0000273;HMDB0001290,465 (469),0.53,1
+Amino Acid metabolism,Wikipathways,1,HMDB0000128,92 (108),0.531,1
+Metabolism of xenobiotics by cytochrome P450 - Homo sapiens (human),KEGG,1,HMDB0060326,95 (121),0.542,1
+Metabolism of steroids,Reactome,1,HMDB0000036,113 (142),0.607,1
+Phase II - Conjugation of compounds,Reactome,1,HMDB0001860,115 (149),0.613,1
+Metabolism of nucleotides,Reactome,1,HMDB0000273,125 (154),0.645,1
+Phase I - Functionalization of compounds,Reactome,1,HMDB0001860,143 (191),0.695,1
+Metabolism of amino acids and derivatives,Reactome,1,HMDB0000128,222 (286),0.847,1
+Biological oxidations,Reactome,1,HMDB0001860,231 (320),0.858,1
